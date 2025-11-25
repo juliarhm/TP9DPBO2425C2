@@ -19,5 +19,6 @@ Presenter adalah penghubung antara View dan Model. Tugas Presenter yaitu:
 
 #### Database
 ##### 1. Tabel : pembalap
-[!gambar]()
+[!gambar](dokumentasi/tabelpembalap.png)
 ##### 2. Tabel : sirkuit
+[!gambar](dokumentasi/tabelsirkuit.png)
