@@ -59,4 +59,7 @@ Presenter adalah penghubung antara View dan Model. Tugas Presenter yaitu:
 
 #### Dokumentasi 
 ##### Pemabalap
-[video](
+[video](dokumentasi/pembalap.mp4)
+
+##### Sirkuit
+[video](dokumentasi/sirkuit.mp4)
